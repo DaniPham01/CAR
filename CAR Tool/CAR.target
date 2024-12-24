@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?><target name="CAR" sequenceNumber="46">
+<locations>
+<location path="${eclipse_home}" type="Directory"/>
+<location includeAllPlatforms="true" includeConfigurePhase="true" includeMode="slicer" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.cvs.source.feature.group" version="1.4.100.v20150204-1700"/>
+<unit id="org.eclipse.sdk.ide" version="4.4.2.M20150204-1700"/>
+<unit id="org.eclipse.test.feature.group" version="3.6.101.v20150202-1306"/>
+<unit id="org.eclipse.releng.tools.feature.group" version="3.5.1.v20140604-1105"/>
+<unit id="org.eclipse.cvs.feature.group" version="1.4.100.v20150204-1700"/>
+<unit id="org.eclipse.platform.sdk" version="4.4.2.M20150204-1700"/>
+<unit id="org.eclipse.rcp.source.feature.group" version="4.4.2.v20150204-1700"/>
+<unit id="org.eclipse.pde.api.tools.ee.feature.feature.group" version="1.0.1.v20140424-1723"/>
+<unit id="org.eclipse.equinox.sdk.feature.group" version="3.10.2.v20150204-1316"/>
+<unit id="org.eclipse.rcp.feature.group" version="4.4.2.v20150204-1700"/>
+<unit id="org.eclipse.jdt.source.feature.group" version="3.10.1.v20150204-1700"/>
+<unit id="org.eclipse.sdk.tests.feature.group" version="4.4.1.v20150204-2305"/>
+<unit id="org.eclipse.osgi.compatibility.plugins.feature.feature.group" version="1.0.0.v20140416-1648"/>
+<unit id="org.eclipse.pde.feature.group" version="3.10.1.v20150204-1700"/>
+<unit id="org.eclipse.platform.ide" version="4.4.2.M20150204-1700"/>
+<unit id="org.eclipse.sdk.examples.source.feature.group" version="3.5.401.v20150204-1700"/>
+<unit id="org.eclipse.pde.source.feature.group" version="3.10.1.v20150204-1700"/>
+<unit id="org.eclipse.jdt.feature.group" version="3.10.1.v20150204-1700"/>
+<repository location="https://download.eclipse.org/eclipse/updates/4.4/"/>
+</location>
+</locations>
+</target>
